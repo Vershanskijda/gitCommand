@@ -1,0 +1,21 @@
+Настройка GIT
+
+Профиль:
+git config --global user.name "Vershanskijda"
+git config --global user.email "vershansky1990@gmail.com"
+
+Другие комманды 
+git help комманда (пример commit)
+git commit --help
+
+Переход в папку в консоли:
+cd /D/
+cd 'Disk E'/
+cd 'Программы'/'Git'/'Тестирование Git'/
+
+
+Создание нового git-репозитория в папке (скрытая папка .git мозги гита)
+git init
+
+Добавление всех файлов для отслеживания
+git add .
